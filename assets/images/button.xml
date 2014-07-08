@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<texture version="1" file="button.png" type="bitmap" width="406" height="146" pixelformat="RGBA_8888" minfilter="linear" magfilter="linear" wrapt="clamp" wraps="clamp" premultiplyalpha="false">
+    <!-- Created with TexturePacker http://www.codeandweb.com/texturepacker -->
+    <!-- $TexturePacker:SmartUpdate:6cb48a5682612180859cab57cbb45ae7:563506aa67e9d950fc0db8aaa0e8f8dc:f73914a8a4acb2d6bf78954f2bf59952$ -->
+    <textureregion id="0" src="keep.png" x="204" y="74" width="200" height="70" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="200" srcheight="70"/>
+    <textureregion id="1" src="new.png" x="2" y="74" width="200" height="70" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="200" srcheight="70"/>
+    <textureregion id="2" src="sound.png" x="204" y="2" width="200" height="70" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="200" srcheight="70"/>
+    <textureregion id="3" src="sound_off.png" x="2" y="2" width="200" height="70" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="200" srcheight="70"/>
+</texture>

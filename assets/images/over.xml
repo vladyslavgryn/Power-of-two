@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<texture version="1" file="over.png" type="bitmap" width="452" height="452" pixelformat="RGBA_8888" minfilter="linear" magfilter="linear" wrapt="clamp" wraps="clamp" premultiplyalpha="false">
+    <!-- Created with TexturePacker http://www.codeandweb.com/texturepacker -->
+    <!-- $TexturePacker:SmartUpdate:32078a1a83ce52beba8b3c4287559886:715fb1bb25f1235630ecdaf9ad301227:2830ec067c0410d855b96fe36f5117c9$ -->
+    <textureregion id="0" src="gameover.png" x="2" y="2" width="448" height="448" rotated="false" trimmed="true" srcx="3" srcy="3" srcwidth="454" srcheight="454"/>
+</texture>

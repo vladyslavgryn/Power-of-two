@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<texture version="1" file="hud.png" type="bitmap" width="454" height="607" pixelformat="RGBA_8888" minfilter="linear" magfilter="linear" wrapt="clamp" wraps="clamp" premultiplyalpha="false">
+    <!-- Created with TexturePacker http://www.codeandweb.com/texturepacker -->
+    <!-- $TexturePacker:SmartUpdate:09b4bc9de2dba608e08921534a0df13c:5c9538b0c04522a671de61d0d145f2f3:43cef35ec1a08686c6809db91c29cc09$ -->
+    <textureregion id="0" src="2048.png" x="2" y="455" width="150" height="150" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="150" srcheight="150"/>
+    <textureregion id="1" src="background.png" x="2" y="2" width="450" height="450" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="450" srcheight="450"/>
+    <textureregion id="2" src="best.png" x="223" y="455" width="100" height="65" rotated="true" trimmed="false" srcx="0" srcy="0" srcwidth="100" srcheight="65"/>
+    <textureregion id="3" src="new.png" x="258" y="558" width="100" height="45" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="100" srcheight="45"/>
+    <textureregion id="4" src="score.png" x="155" y="455" width="100" height="65" rotated="true" trimmed="false" srcx="0" srcy="0" srcwidth="100" srcheight="65"/>
+    <textureregion id="5" src="screen.png" x="155" y="558" width="100" height="45" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="100" srcheight="45"/>
+</texture>
